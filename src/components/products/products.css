@@ -1,0 +1,16 @@
+.items {
+    flex-direction: column;
+}
+
+.item {
+    background-color: burlywood;
+    border: 1px dotted brown;
+    border-radius: 10px;
+    padding: 0.7rem;
+    margin: 0.5rem 0; 
+     display: block;
+     width: 450px;
+     height: 200px;
+
+}
+
